@@ -1,0 +1,11 @@
+I need a text editor that would work in the way a TTY terminal would. 
+You can't do any of the fancy terminal graphics stuff that nano and the others do.
+You can only go 1 line at a time, and you can't erase anything. Also, no colors. 
+(It's for an Arduino project over the serial monitor. https://github.com/Killaship/cmdShell)
+
+
+
+A C cross compiler for the Raspberry Pi 0 W, to x86. (ARMv6)
+It compiles FOR x86, generating x86 executables.
+It runs ON the RPi. Like the other things, please attach a link if you know of anything.
+(trying to set up my Raspberry Pi for development if my current enviroment goes kaput.)
