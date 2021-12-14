@@ -1,7 +1,5 @@
-I need a text editor that would work in the way a TTY terminal would. 
-You can't do any of the fancy terminal graphics stuff that nano and the others do.
-You can only go 1 line at a time, and you can't erase anything. Also, no colors. 
-(It's for an Arduino project over the serial monitor. https://github.com/Killaship/cmdShell)
+[SOLVED]  I need a text editor that would work in the way a TTY terminal would. (I made a really shitty one that "werks")
+
 
 
 
