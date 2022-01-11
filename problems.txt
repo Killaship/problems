@@ -1,9 +1,6 @@
 [SOLVED]  I need a text editor that would work in the way a TTY terminal would. (I made a really shitty one that "werks")
 
-
-
-
-
+Does anyone know of a way to run QEMU and nasm and bash in the browser? (I already tried replit and jslinux and they're crap.)
 
 [SOLVED]  A C cross compiler for the Raspberry Pi 0 W, to x86. (ARMv6) (I used clang to solve)
 
